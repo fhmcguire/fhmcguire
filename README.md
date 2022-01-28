@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fhmcguire. I'm a PhD student in Public Health Sciences at Washington University in St. Louis.
+- 👋 Hi, I’m @fhmcguire. I'm a PhD student in Public Health Sciences at Washington University in St. Louis, and I use they/them or he/him pronouns.
 - 👀 I’m interested in: social and psychiatric epidemiology, LGBTQ mental health, eating disorders / body image, and systems science.
 - 🌱 I’m currently learning: social network analysis, multilevel and longitudinal modelling, and system dynamics.
 - 📫 How to reach me: hunter [dot] mcguire [at] wustl [dot] edu
