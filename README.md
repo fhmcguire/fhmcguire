@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fhmcguire. I'm a Senior Biostatistician at [PicnicHealth](https://research.picnichealth.com/). I completed my PhD in Public Health Sciences at Washington University in St. Louis.
+- 👋 Hi, I’m @fhmcguire. I'm a Senior Data Scientist at [Tempus](https://tempus.com/). I completed my PhD in Public Health Sciences at Washington University in St. Louis.
 - 👀 I’m interested in: pharmacoepidemiology, bayesian statistics, complex sample survey data analysis, social epidemiology, health policy, LGBTQ+ mental health, quantitative methods for intersectionality-informed research, eating disorders, body image, and systems science methods.
 - 🌱 I’m currently learning: machine learning and deep learning using Python
 
